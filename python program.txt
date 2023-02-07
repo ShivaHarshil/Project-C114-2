@@ -1,0 +1,4 @@
+1.not supported between string and int
+2.EmilRefsnes
+  TobiasRefsnes
+  LinusRefsnes
